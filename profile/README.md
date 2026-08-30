@@ -2,9 +2,13 @@
   <img src="https://raw.githubusercontent.com/nookbox/.github/main/profile/banner.png" alt="nookbox" width="100%">
 </p>
 
-개인 작업 공간입니다.
+### nookbox란?
 
-### 왜 만들었나
+nook은 구석진 공간을 뜻합니다.
+제가 생각하기에 구석진 공간은, 어두워서 손으로 더듬어야 하는 자리입니다. 대신 무엇을 만졌는지는 남는다고 생각합니다.
+제 의지가 담긴 코드 한줄을 남기고 결과물을 남기는 공간입니다.
+
+### 왜 만들었나요?
 
 토마스 모어는 『유토피아』에서 인클로저를 이렇게 표현했습니다.
 
