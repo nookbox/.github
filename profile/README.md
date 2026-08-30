@@ -27,7 +27,7 @@ AI를 안 쓰겠다는 뜻은 아닙니다. 그럴 수도 없고요.
 ### 하는 것들
 
 - **[idp](https://github.com/nookbox/idp)** — OIDC / OAuth 2.0 인증 서버. 여기 서비스들은 전부 이걸로 로그인합니다.
-- **[nookbox](https://github.com/nookbox/nookbox)** — 웹 서비스 본체. Next.js + NestJS 모노레포.
+- **[nookbox](https://github.com/nookbox/nookbox)** — nookbox 랜딩페이지 Next.js + NestJS 모노레포.
 - **[rescene-game](https://github.com/nookbox/rescene-game)** — three.js를 처음부터 배우면서 만드는 게임.
 
 만들면서 내린 결정과 그때의 생각은 각 레포의 위키에 남깁니다.
