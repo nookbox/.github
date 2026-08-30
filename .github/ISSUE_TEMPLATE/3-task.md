@@ -1,13 +1,13 @@
 ---
 name: 작업 / 개선
 about: 리팩터링, 설정, 문서, 의존성 등 기능 외 작업을 기록합니다.
-title: "[CHORE] "
-labels: chore
+title: "[TASK] "
 ---
 
 ## 어떤 작업인가요?
 
 > 손댈 범위를 구체적으로 적어주세요.
+> 작업 성격에 맞는 라벨을 붙여주세요. (refactor / chore / test / deps / design)
 
 ## 왜 필요한가요?
 
