@@ -2,6 +2,7 @@
 name: 작업 / 개선
 about: 리팩터링, 설정, 문서, 의존성 등 기능 외 작업을 기록합니다.
 title: "[CHORE] "
+labels: chore
 ---
 
 ## 어떤 작업인가요?
