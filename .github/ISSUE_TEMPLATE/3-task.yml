@@ -1,0 +1,44 @@
+name: 🔧 작업
+description: 리팩터링, 설정, 문서, 의존성 등 기능 외 작업을 기록합니다.
+title: "chore: "
+labels: []
+body:
+  - type: dropdown
+    id: kind
+    attributes:
+      label: 작업 종류
+      options:
+        - 리팩터링
+        - 설정 / 인프라
+        - 문서
+        - 의존성 업데이트
+        - 테스트
+        - 기타
+    validations:
+      required: true
+
+  - type: textarea
+    id: what
+    attributes:
+      label: 무엇을 하나요?
+      description: 손댈 범위를 구체적으로 적어주세요.
+    validations:
+      required: true
+
+  - type: textarea
+    id: why
+    attributes:
+      label: 왜 하나요?
+      description: 지금 하지 않으면 무엇이 쌓이는지 적어주세요.
+    validations:
+      required: true
+
+  - type: textarea
+    id: done
+    attributes:
+      label: 완료 기준
+      value: |
+        - [ ] 
+        - [ ] 
+    validations:
+      required: false
